@@ -1,0 +1,20 @@
+$primaryColor: steelblue;
+$textColor: white;
+
+.container{
+
+    width:300px;
+
+    margin:auto;
+
+    text-align:center;
+
+    background:$primaryColor;
+
+    color:$textColor;
+
+    padding:20px;
+
+    border-radius:10px;
+
+}
